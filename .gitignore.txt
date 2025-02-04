@@ -1,1 +1,8 @@
+# Python bytecode files
+*.pyc
+
+# .env dosyası
 .env
+
+# API anahtarları ve hassas bilgileri içeren dosyalar
+bot.py.txt
